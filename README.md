@@ -2,6 +2,7 @@
 
 **This repository focuses on web scraping, extracting data from websites using Selenium in Python.**
 
+
 ## 1. Internet Speed & Twitter Complaint Bot - Automation Project
 
 Internet Speed Twitter Bot
@@ -47,6 +48,7 @@ Promised internet speed
 Complaint message to the provider
 
 
+
 ## 2. Instagram Follower Bot - Automation Project
 
 ### Description
@@ -90,6 +92,7 @@ The bot:
 * Opens followers list of the target account
 * Follows multiple users from the list
 * Automates repetitive follow actions without manual effort
+
 
 
 ## 3. Data Entry Automation - Web Scraping Project
